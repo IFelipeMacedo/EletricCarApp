@@ -9,5 +9,5 @@
     <string name="recarga">Recarga</string>
     <string name="preco_kwh">Preço KwH</string>
     <string name="km_percorrido">Km Percorrido</string>
-    <string name="calcular">Calcular</string>
+    <string name="calcular">CALCULAR</string>
 </resources>
